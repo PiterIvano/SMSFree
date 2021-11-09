@@ -5,7 +5,7 @@
 
 <pre><code>pkg install git<font></font>
 pkg install python<font></font>
-git clone https://github.com/Hidden-parker/SMSFree<font></font>
+git clone https://github.com/PiterIvano/SMSFree<font></font>
 cd FreeSms<font></font>
 python sms.py<font></font>
 </code></pre>
